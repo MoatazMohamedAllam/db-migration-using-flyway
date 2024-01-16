@@ -1,0 +1,1 @@
+ALTER TABLE PERSON ADD COLUMN modified_timestamp TIMESTAMP;
